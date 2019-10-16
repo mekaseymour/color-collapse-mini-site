@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="569px" height="374px" viewBox="0 0 569 374" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Title" transform="translate(22.000000, 62.000000)" fill="#0F1739" font-family="PaytoneOne-Regular, Paytone One" font-size="90" font-weight="normal" letter-spacing="9.375">
+            <text id="Color-Collapse">
+                <tspan x="85.8375" y="100">COLOR</tspan>
+                <tspan x="0" y="225">COLLAPSE</tspan>
+            </text>
+        </g>
+        <circle id="Oval" fill="#45DA8A" cx="208.5" cy="129.5" r="40.5"></circle>
+        <circle id="Oval" fill="#FD9630" cx="345.5" cy="129.5" r="40.5"></circle>
+        <circle id="Oval" fill="#FF4848" cx="121.5" cy="254.5" r="40.5"></circle>
+    </g>
+</svg>
